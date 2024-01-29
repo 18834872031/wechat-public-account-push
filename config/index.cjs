@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oY9lq63VvOX_o8AAHMJGBkRupu5c',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '',
+      useTemplateId: 'f4TaSoQJXhg17KVxbX5idxh_vr6NSmrYrPcZCBZKruo',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '01-09',
       festivals: [
@@ -33,7 +33,7 @@ const USER_CONFIG = {
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: '李四', year: '2001', date: '01-09',
+          type: '生日', name: '宝贝', year: '2001', date: '01-09',
         },
         {
           type: '节日', name: '相恋纪念日', year: '2023', date: '04-11',
